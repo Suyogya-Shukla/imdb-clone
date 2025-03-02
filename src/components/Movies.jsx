@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import MovieCard from './MovieCard'
 import axios from 'axios'
 import Pagination from './Pagination'
-import WatchList from './WatchList'
+
 
 function Movies(props) {
 
